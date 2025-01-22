@@ -1,4 +1,4 @@
-# Círculo de Magia Intermedia (Flujo Medio de Poder)
+# II Círculo de Magia Intermedia (Flujo Medio de Poder)
 
 Este círculo representa un nivel intermedio de conocimiento y responsabilidad. Los miembros comienzan a asumir roles de liderazgo y contribuyen significativamente al desarrollo de la SCM.
 
